@@ -1,0 +1,16 @@
+{
+  "category_version": "tr_privacy_v1",
+  "span_class_names": [
+    "O",
+    "tckn",
+    "secret",
+    "iban",
+    "vkn",
+    "account_number",
+    "private_address",
+    "private_date",
+    "private_phone",
+    "private_email",
+    "private_person"
+  ]
+}
