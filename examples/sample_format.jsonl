@@ -1,0 +1,3 @@
+{"text": "Ahmet Yılmaz TCKN 12345678901, telefon 05551234567, email ahmet@example.com.", "label": [{"category": "private_person", "start": 0, "end": 12}, {"category": "tckn", "start": 18, "end": 29}, {"category": "private_phone", "start": 39, "end": 50}, {"category": "private_email", "start": 58, "end": 75}]}
+{"text": "VKN 1234567890 olan şirketin IBAN bilgisi TR330006100519786457841326.", "label": [{"category": "vkn", "start": 4, "end": 14}, {"category": "iban", "start": 42, "end": 68}]}
+{"text": "Adres: Atatürk Mah. No: 12 Ankara. Kart/account no ACC-TR-998877.", "label": [{"category": "private_address", "start": 7, "end": 33}, {"category": "account_number", "start": 51, "end": 64}]}
